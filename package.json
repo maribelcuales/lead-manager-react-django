@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/maribelcuales/lead-manager-react-django/issues"
   },
-  "homepage": "https://github.com/maribelcuales/lead-manager-react-django#readme"
+  "homepage": "https://github.com/maribelcuales/lead-manager-react-django#readme",
+  "devDependencies": {
+    "webpack": "^4.37.0",
+    "webpack-cli": "^3.3.6"
+  }
 }
